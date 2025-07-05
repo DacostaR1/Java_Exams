@@ -23,6 +23,6 @@ public class CountUgandaOccurrences {
         }
         
         System.out.println("The word 'Uganda' appears " + count + " times.");
-        book.close();
+        
     }
 }
